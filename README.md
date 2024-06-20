@@ -43,5 +43,7 @@ I'm eager to hear your feedback and suggestions! Feel free to reach out via Link
 **Additional Notes:**
 
 * This project was built entirely with native Swift and SwiftUI, without any reliance on third-party libraries.
+* The user interface (UI) was designed from scratch using Figma, leveraging my UI/UX experience.
+
 
 I hope you find Moviez interesting and appreciate the approach taken in its development. Let's continue the conversation!
