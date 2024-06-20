@@ -26,7 +26,7 @@ This project prioritizes code maintainability and adheres to the principles of C
 
 ## A Passion Project:
 
-This application marks my first official foray into iOS development, all within the past month! As a seasoned Android developer with a long-standing fascination with iOS, I embarked on this project to broaden my mobile development horizons. Learning Swift has been an incredibly rewarding experience, and I'm enthusiastic about continuing my iOS journey.
+I just started iOS development last month, and this is my first official project! As an experienced Android Engineer, I always found iOS interesting, so I decided to dive in and expand my skills. Learning Swift has been very rewarding and I am thrilled to continue advancing in iOS development.
 
 ## More Than Just Code:
 
