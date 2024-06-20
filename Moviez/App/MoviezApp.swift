@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct MoviezApp: App {
+    
+    let movieRepo = MovieRepositoryImpl(networkManager: NetworkManager())
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView().environmentObject(MovieViewModel(movieRepo: movieRepo))
         }
     }
 }
